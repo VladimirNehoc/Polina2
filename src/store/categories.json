@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Компьютеры",
+        "en_name": "computers"
+    },
+    {
+        "id": 2,
+        "name": "Смартфоны",
+        "en_name": "smartphones"
+    },
+    {
+        "id": 3,
+        "name": "Мониторы",
+        "en_name": "monitors"
+    },
+    {
+        "id": 4,
+        "name": "Фототехника",
+        "en_name": "photo"
+    },
+    {
+        "id": 5,
+        "name": "Планшеты",
+        "en_name": "tablets"
+    }
+]
