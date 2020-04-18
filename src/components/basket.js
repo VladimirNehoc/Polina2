@@ -33,7 +33,7 @@ const Basket = props => {
                                                     <span className='counter-container__count'>{el.count}</span>
                                                     <span className='counter-container__up' onClick={() => (el.count === 9) ? null : upCountProduct(el.id)}>+</span>
                                                 </div>
-                                                <span className='line__price'>{product.price}р</span>
+                                            <span className='line__price'>{product.price}р | {product.price * el.count}р</span>
                                             </div>
                                             <span className='line__close' onClick={() => deleteProduct(product.id)}>x</span>
                                         </div>
